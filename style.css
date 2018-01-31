@@ -1,0 +1,12 @@
+.container {
+  border: 1px solid black;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px
+}
+
+button{
+  color: #ff1a1a;
+}
