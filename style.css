@@ -1,9 +1,7 @@
-.container {
-  border: 1px solid black;
-  border-radius: 25px;
-  margin-top: 60px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  padding-left: 15px;
-  padding-right: 15px
+.main {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
 }
